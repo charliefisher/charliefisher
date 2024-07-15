@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a 4A Mechatronics engineering student at the University of Waterloo. I have a strong interest in software. I enjoy this type of work as it challenges me to find an elegant and efficient solution and allows me to quickly see the outcome of my work. I am a hard worker and quick learner and am eager to apply my skills to engineering problems.
+I'm a Mechatronics & Algorithms Engineer. I have a strong interest in high performance software. I especially enjoy writing software that simulates or interacts with the real world. I am a hard worker and quick learner and am eager to apply my skills to engineering problems.
 
 You can see my work experience on [LinkedIn](https://www.linkedin.com/in/charlierfisher/).
 
